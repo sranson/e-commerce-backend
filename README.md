@@ -40,7 +40,9 @@ npm run seed
 
 ## Video Demonstration
 
-[Video Demonstration](https://www.youtube.com/watch?v=dHcbi94hGYs)
+[Video Demonstration Part 1](https://youtu.be/sob4aGzNboI)
+
+[Video Demonstration Part 2](https://youtu.be/leYrcoX5tG0)
 
 ## Questions
 
